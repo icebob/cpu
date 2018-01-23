@@ -1,5 +1,4 @@
-cpu
-===
+# cpu [![NPM version](https://img.shields.io/npm/v/@icebob/cpu.svg)](https://www.npmjs.com/package/@icebob/cpu)
 Promise-based CPU Usage meter. No dependencies!
 
 ### Install

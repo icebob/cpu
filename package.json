@@ -4,6 +4,7 @@
   "description": "Promise-based CPU Usage meter.",
   "main": "index.js",
   "scripts": {
+    "publish": "npm publish --access public"
   },
   "repository": {
     "type": "git",
