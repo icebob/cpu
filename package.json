@@ -1,29 +1,21 @@
 {
   "name": "cpu",
-  "version": "1.0.1",
-  "description": "cpu module based on 'os' module",
+  "version": "1.0.0",
+  "description": "Promise-based CPU Usage meter.",
   "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
   "scripts": {
-    "test": "node ./node_modules/mocha/bin/mocha"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dayuoba/cpu.git"
+    "url": "https://github.com/icebob/cpu.git"
   },
   "keywords": [
     "CPUUsage"
   ],
-  "author": "dayuoba",
+  "author": "icebob",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dayuoba/cpu/issues"
+    "url": "https://github.com/icebob/cpu/issues"
   },
-  "homepage": "https://github.com/dayuoba/cpu",
-  "devDependencies": {
-    "mocha": "^2.2.4",
-    "should": "^5.2.0"
-  }
+  "homepage": "https://github.com/icebob/cpu"
 }
