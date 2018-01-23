@@ -13,7 +13,7 @@ npm install cpu
 ```javascript
 var cpu = require('@icebob/cpu');
 
-cpu().then({avg, usages) => {
+cpu().then(({avg, usages}) => {
   console.log(avg, usages);
 });
 ``` 
@@ -22,7 +22,7 @@ cpu().then({avg, usages) => {
 ```javascript
 var cpu = require('@icebob/cpu');
 
-cpu(500).then({avg, usages) => {
+cpu(500).then(({avg, usages}) => {
   console.log(avg, usages);
 });
 ``` 
