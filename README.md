@@ -5,7 +5,7 @@ Promise-based CPU Usage meter. No dependencies!
 ### Install
 
 ```bash
-npm install cpu
+npm install @icebob/cpu
 ```
 
 ### Usage
